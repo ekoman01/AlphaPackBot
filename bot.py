@@ -3,7 +3,7 @@ from discord.ext import commands
 import random
 import os
 
-TOKEN = 'NzM5ODYxNjI2Njg1MjI3MDc4.Xygn1Q.8O6EQfRRJqEVpFjXI5u5VrLmL0g'
+TOKEN = ''
 
 client = commands.Bot(command_prefix = '*')
 client.remove_command('help')
